@@ -1,3 +1,3 @@
-# Javascript + Exciting
+# JAVASCRIPT + Exciting
 
-Javascript 연습
+javascript practice
